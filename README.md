@@ -38,4 +38,4 @@ This project is licensed under the [MIT License](LICENSE), so feel free to use, 
 
 ------
 
-If you have any feedback or suggestions for improvement, I'd love to hear from you. You can reach me via email at your.vaibhavghanghav186@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhavghanghav/). 
+If you have any feedback or suggestions for improvement, I'd love to hear from you. You can reach me via email at vaibhavghanghav186@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhavghanghav/). 
